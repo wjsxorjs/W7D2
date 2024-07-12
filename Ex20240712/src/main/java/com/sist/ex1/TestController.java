@@ -38,6 +38,9 @@ public class TestController {
 	 	- commons logging
 	 	- mybatis
 	 	- mybatis spring
+	 	
+	 	위의 라이브러리들을 모두 pom.xml에 명시한 후 root-context.xml에
+	 	빈들을 추가해야 한다. (root-context.xml문서 참조)
 	 */
 	
 }
